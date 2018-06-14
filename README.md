@@ -5,7 +5,13 @@ GSC's consensus mechanism uses ADPOS (Account-Delegated Proof-of-Stake), which i
 
 The Light Nodes are the core of the construction of the public ecosystem basis of GSC. It is of great significance to the sustainable and stable operation of ecology. Since its launch, GSC has won the support of a great number of users, project partners and cooperation partners. Now we decided to improve the rights of the GSC holders and to give them the right to participate in the decision-making process of the community. The users holding GSC can vote and witness the emergence of candidates. 
 
-Voteing Website:
+Voting Website:
 
 https://vote.gsc.social/
+
+
+![](https://i.loli.net/2018/06/14/5b222462837e5.jpg)
+
+
+![](https://i.loli.net/2018/06/14/5b2224a19b50d.jpg)
 
